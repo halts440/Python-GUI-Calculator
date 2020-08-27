@@ -10,7 +10,6 @@ import tkinter.font as Font
 window = tk.Tk()
 window.title('Calculator')
 window.geometry("334x360")
-window.iconbitmap(r'chalkboard_icon-icons.com_54408.ico')
 
 
 # creating label where all results will be show
